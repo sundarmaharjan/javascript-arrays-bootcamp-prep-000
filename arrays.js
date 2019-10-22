@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var chocolateBars = ["snickers", "hundred grand","kitkat", "skittles"];
 
 
@@ -39,3 +40,8 @@ function destructivelyAddElementToEndOfArray(china, nepal){
  function addElementToEndOfArray(china, nepal){
    return [...china, nepal];
  }
+=======
+var chocolateBars = ["snickers", "hundred grand","kitkat", "skittles"]
+
+var myArray = ["element0", "element1", "element3", "elementn"];
+>>>>>>> ff53a7da670de1abf78e8d36db5f4e709d1920a1
